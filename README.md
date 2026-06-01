@@ -1,0 +1,43 @@
+# SQL Injection — Solved Labs
+
+This repository contains write-ups and solutions for all SQL injection labs from [PortSwigger Web Security Academy](https://portswigger.net/web-security/sql-injection).
+
+Each lab includes a step-by-step breakdown covering detection, exploitation, and the final payload used to solve it.
+
+---
+
+## What's Covered
+
+- Retrieving hidden data via WHERE clause manipulation
+- Subverting application logic
+- UNION-based attacks for extracting data from other tables
+- Examining the database type and structure
+- Blind SQL injection (boolean-based and time-based)
+- And more
+
+---
+
+## Structure
+
+Each lab is a standalone markdown file named sequentially.
+
+```
+lab-1.md
+lab-2.md
+lab-3.md
+...
+```
+
+## Labs
+
+| Lab | Topic |
+|-----|-------|
+| [lab-1.md](./lab-1.md) | SQL injection vulnerability in WHERE clause allowing retrieval of hidden data |
+
+---
+
+## Prerequisites
+
+- Basic understanding of SQL
+- Familiarity with HTTP requests (Burp Suite recommended)
+- A free [PortSwigger Academy](https://portswigger.net/web-security) account to follow along
