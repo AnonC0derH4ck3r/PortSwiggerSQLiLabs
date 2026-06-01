@@ -33,6 +33,7 @@ lab-3.md
 | Lab | Topic |
 |-----|-------|
 | [lab-1.md](./lab-1.md) | SQL injection vulnerability in WHERE clause allowing retrieval of hidden data |
+| [lab-2.md](./lab-2.md) | SQL injection vulnerability allowing login bypass |
 
 ---
 
