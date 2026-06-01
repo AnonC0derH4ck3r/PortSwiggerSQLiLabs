@@ -34,6 +34,7 @@ lab-3.md
 |-----|-------|
 | [lab-1.md](./lab-1.md) | SQL injection vulnerability in WHERE clause allowing retrieval of hidden data |
 | [lab-2.md](./lab-2.md) | SQL injection vulnerability allowing login bypass |
+| [lab-3.md](./lab-3.md) | SQL injection attack, querying the database type and version on Oracle |
 
 ---
 
