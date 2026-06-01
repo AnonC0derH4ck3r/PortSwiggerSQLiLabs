@@ -38,6 +38,9 @@ lab-3.md
 
 ---
 
+## By
+- Huzefa Khalil Ahmed Dayanji
+
 ## Prerequisites
 
 - Basic understanding of SQL
