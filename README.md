@@ -37,6 +37,7 @@ lab-3.md
 | [lab-3.md](./lab-3.md) | SQL injection attack, querying the database type and version on Oracle |
 | [lab-4.md](./lab-4.md) | SQL injection attack, querying the database type and version on MySQL and Microsoft |
 | [lab-5.md](./lab-5.md) | SQL injection attack, listing database contents on non-Oracle databases |
+| [lab-6.md](./lab-6.md) | SQL injection attack, listing the database contents on Oracle |
 
 ---
 
