@@ -1,6 +1,6 @@
 # SQL injection attack, listing the database contents on Oracle
 
-**Tags:** `UNION attack` · `Oracle` · `information_schema` · `credential extraction`
+**Tags:** `UNION attack` · `Oracle` · `credential extraction`
 
 ---
 
