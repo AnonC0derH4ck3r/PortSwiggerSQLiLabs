@@ -53,7 +53,7 @@ Understanding the data-types returned by the columns.
 
 ## 3. Solving the LAB
 
-The goal of the lab is to return the `0oLqRX` string. Hence, I used the following payload to solve the lab.
+The goal of the lab is to return the `0oLqRX` string. Hence, I used the following payload to solve the lab. Since, we know that 2nd column is returning a `TEXT` datatype, I used the following payload:-
 
 ```sql
 Gifts' UNION SELECT 1,'0oLqRX',NULL--+
