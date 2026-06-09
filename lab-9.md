@@ -1,6 +1,6 @@
 # SQL injection UNION attack, retrieving data from other tables
 
-**Tags:** `UNION attack` · `MySQL` · `information_schema` · `credential extraction`
+**Tags:** `UNION attack` · `PostgreSQL` · `information_schema` · `credential extraction`
 
 ---
 
