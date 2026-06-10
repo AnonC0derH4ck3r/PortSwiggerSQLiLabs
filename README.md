@@ -75,6 +75,7 @@ xxe/
 | [sqli/lab-7.md](./sqli/lab-7.md) | SQL injection UNION attack, determining the number of columns returned by the query |
 | [sqli/lab-8.md](./sqli/lab-8.md) | SQL injection UNION attack, finding a column containing text                        |
 | [sqli/lab-9.md](./sqli/lab-9.md) | SQL injection UNION attack, retrieving data from other tables                       |
+| [sqli/lab-10.md](./sqli/lab-10.md) | SQL injection UNION attack, retrieving multiple values in a single column                       |
 
 ## File Upload Vulnerabilities
 
