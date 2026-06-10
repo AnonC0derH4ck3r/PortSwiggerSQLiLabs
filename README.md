@@ -76,6 +76,12 @@ xxe/
 | [sqli/lab-8.md](./sqli/lab-8.md) | SQL injection UNION attack, finding a column containing text                        |
 | [sqli/lab-9.md](./sqli/lab-9.md) | SQL injection UNION attack, retrieving data from other tables                       |
 
+## File Upload Vulnerabilities
+
+| Lab                              | Topic                                                                               |
+| -------------------------------- | ----------------------------------------------------------------------------------- |
+| [fuv/lab-1.md](./fuv/lab-1.md)   | Remote code execution via web shell upload                                          |
+
 ---
 
 ## Prerequisites
